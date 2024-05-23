@@ -1,0 +1,6 @@
+Question Three (6 marks)
+Write self-contained Python code to utilise the pandas library to analyse a file named example.csv. This CSV-formatted file would contain three columns, named tree_type, tree_weight and tree_height. Each of the tree’s stored weights would need to be converted from pounds to kilograms and each of the tree’s stored heights from yards to meters (using conversion factors to 3 decimal points are OK). After this, the largest and the smallest weights and heights for each type of tree should be calculated separately and displayed as-is.
+
+
+Question Four (6 marks)
+Write self-contained Python code, utilising the datetime package, to get the current date and time, subtract three days from it and then output the result to the user in the format “Wednesday 04 June, 2022 at 01:23:45PM”. Ensure each step is placed on its own line and is appropriately commented.
